@@ -47,3 +47,12 @@ Displays a list of available commands and their usage.
    - Follow [this guide](https://gspread.readthedocs.io/en/latest/oauth2.html#service-account) to set up the credentials.
 4. **Google Sheet**
    - A Google Sheet with the required columns must be shared with the service account email.
+  
+---
+
+## Figures
+![](https://github.com/robbytbg/Customer-Order-Management-Telegram-Bot/blob/21f5903825c9f7f992b197501195f9b3a0737f7e/Related%20Images/cap1.PNG)
+
+![](https://github.com/robbytbg/Customer-Order-Management-Telegram-Bot/blob/21f5903825c9f7f992b197501195f9b3a0737f7e/Related%20Images/cap2.PNG)
+
+![](https://github.com/robbytbg/Customer-Order-Management-Telegram-Bot/blob/21f5903825c9f7f992b197501195f9b3a0737f7e/Related%20Images/cap3.PNG)
